@@ -6,7 +6,7 @@ This project is a simple password generator built using React. It allows users t
 
 - Generate random passwords.
 - Customize password length.
-- Include/exclude uppercase letters, lowercase letters, numbers, and special characters.
+- Include/exclude numbers, and special characters.
 - Copy generated password to clipboard.
 
 ## Installation
